@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @YASHsingh06
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-YASHsingh06/YASHsingh06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Yash Singh
+🔭 I’m passionate about Software Development and have a strong focus on Full-Stack Development and Data Science.
+🌱 I’m currently learning and experimenting with Python, JavaScript, and MERN Stack (MongoDB, Express.js, React, Node.js).
+💡 I love solving problems, improving my coding skills, and exploring new technologies.
+🔍 I’m particularly interested in Machine Learning, Data Structures & Algorithms, and Cloud Computing.
+🤝 I’m always open to collaborating on open-source projects and innovative software solutions.
